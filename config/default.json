@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dung:1@devconnector-rymu3.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myjwtSecret"
+}
