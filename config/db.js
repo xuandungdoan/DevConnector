@@ -8,6 +8,7 @@ const MongoDB = async () => {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,
+      useFindAndModify: false,
     });
     console.log("MongoDB started....");
   } catch (error) {
